@@ -1,3 +1,11 @@
+# custom
+a
+b/
+./c
+./d/
+*/e
+*/f/
+
 # Logs
 logs
 *.log
